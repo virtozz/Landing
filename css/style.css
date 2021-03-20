@@ -1,0 +1,16 @@
+.hero-text {
+  width: 50%;
+  position: absolute;
+  right: 0px;
+  height: 100%;
+}
+
+.hero-image {
+  background: url("../images/myBPn5PNZYc.jpg");
+  background-size: auto 100%;
+  background-position: center;
+  width: 50%;
+  position: absolute;
+  left: 50%;
+  height: 100%;
+}
