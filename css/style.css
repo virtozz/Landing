@@ -1,14 +1,17 @@
 .hero-text {
+  left: 0%;
   width: 50%;
   position: absolute;
   right: 0px;
   height: 100%;
+  background-color: #eee;
 }
 
 .hero-image {
   background: url("../images/myBPn5PNZYc.jpg");
   background-size: auto 100%;
-  background-position: center;
+  background-position: top center;
+  background-repeat: no-repeat;
   width: 50%;
   position: absolute;
   left: 50%;
